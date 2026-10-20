@@ -1,0 +1,1 @@
+{"name": "Arcade by Davis Tech Support", "short_name": "Arcade", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#08060F", "theme_color": "#08060F", "icons": [{"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}, {"src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}
